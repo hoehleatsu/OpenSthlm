@@ -8,6 +8,7 @@
 #'
 #' @author Michael Hoehle <http://www.math.su.se/~hoehle>
 #' Date:   2015-01-23
+#' License: GPL v2.0
 ######################################################################
 
 library("plyr")
